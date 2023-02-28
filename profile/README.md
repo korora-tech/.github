@@ -1,3 +1,3 @@
 # Korora Tech
 
-![Penguin](./images/penguin.png)
+![Penguin](profile/images/penguin.png)
