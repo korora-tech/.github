@@ -2,7 +2,7 @@
 
 ## Folks Behind Korora Tech
 
-### rawkode (David Flanagan)
+### [rawkode](https://github.com/rawkode) (David Flanagan)
 > Cloud Native Advocate | Live Coder | Infrastructure Enthusiast
 
 - **Location:** Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿  
@@ -13,7 +13,7 @@ David is a passionate technologist who shares his learning journey through live 
 
 ---
 
-### icepuma (Stefan Ruzitschka)
+### [icepuma](https://github.com/icepuma) (Stefan Ruzitschka)
 > DevOps Engineer | Open Source Enthusiast | Rust Aficionado
 
 - **Location:** Germany 🇩🇪  
