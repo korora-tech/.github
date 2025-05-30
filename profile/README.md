@@ -24,7 +24,7 @@ Stefan is a 38-year-old DevOps engineer bringing deep technical expertise to his
 
 ## Projects
 
-- **[temps](https://github.com/korora-tech/temps)** 🚧 _(Active Development - Not Production Ready)_
+- **[temps](https://github.com/korora-tech/temps)**
   
   A Rust library for working with time and dates. Parse human-readable time expressions with support for multiple languages (English and German). Features include:
   - Relative time parsing ("in 2 hours", "3 days ago")
