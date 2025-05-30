@@ -35,4 +35,4 @@ Stefan is a 38-year-old DevOps engineer bringing deep technical expertise to his
   - Day references and weekday specifications
   - 12-hour and 24-hour time format support
   - ISO 8601 date parsing
-  - Zero-copy parsing with support for chrono and jiff libraries
+  - Support for [chrono](https://crates.io/crates/chrono) and [jiff](https://crates.io/crates/jiff) libraries
