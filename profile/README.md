@@ -24,6 +24,10 @@ Stefan is a 38-year-old DevOps engineer bringing deep technical expertise to his
 
 ## Projects
 
+- **[cidrrr](https://github.com/korora-tech/cidrrr)**
+  
+  A command-line tool that makes inspection of IPv4 and IPv6 CIDR blocks easier. Convert CIDR blocks into lists of IP addresses with various output options.
+
 - **[temps](https://github.com/korora-tech/temps)**
   
   A Rust library for working with time and dates. Parse human-readable time expressions with support for multiple languages (English and German). Features include:
