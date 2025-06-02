@@ -1,27 +1,5 @@
 # Korora Tech
 
-## Folks Behind Korora Tech
-
-### [rawkode](https://github.com/rawkode) (David Flanagan)
-> Cloud Native Advocate | Live Coder | Infrastructure Enthusiast
-
-- **Location:** Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- **Founded:** Rawkode Academy
-- **Focus:** Kubernetes, Infrastructure Automation, Open Source
-
-David is a passionate technologist who shares his learning journey through live coding and educational content. He's particularly interested in building tools like DHD (Declarative Host Deployment) and contributing to projects like NixOS. David is dedicated to making technology accessible and actively creates educational content about cloud-native technologies.
-
----
-
-### [icepuma](https://github.com/icepuma) (Stefan Ruzitschka)
-> DevOps Engineer | Open Source Enthusiast | Rust Aficionado
-
-- **Location:** Germany 🇩🇪
-- **Co-worker:** 3-year-old Black Lab
-- **Interests:** Rust, Stargate SG-1, Warhammer 40k
-
-Stefan is a 38-year-old DevOps engineer bringing deep technical expertise to his craft. A passionate open source contributor, he contributes to building rawkode.studio for the Rawkode Academy. His unique blend of island life tranquility and cutting-edge technology shapes his approach to software development.
-
 ## Projects
 
 - **[cidrrr](https://github.com/korora-tech/cidrrr)**
@@ -48,3 +26,25 @@ Stefan is a 38-year-old DevOps engineer bringing deep technical expertise to his
   - Multiple action types (file operations, package management, command execution)
   - Interactive terminal UI for monitoring execution
   - Powered by OpenTelemetry
+
+## Folks Behind Korora Tech
+
+### [rawkode](https://github.com/rawkode) (David Flanagan)
+> Cloud Native Advocate | Live Coder | Infrastructure Enthusiast
+
+- **Location:** Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- **Founded:** Rawkode Academy
+- **Focus:** Kubernetes, Infrastructure Automation, Open Source
+
+David is a passionate technologist who shares his learning journey through live coding and educational content. He's particularly interested in building tools like DHD (Declarative Host Deployment) and contributing to projects like NixOS. David is dedicated to making technology accessible and actively creates educational content about cloud-native technologies.
+
+---
+
+### [icepuma](https://github.com/icepuma) (Stefan Ruzitschka)
+> DevOps Engineer | Open Source Enthusiast | Rust Aficionado
+
+- **Location:** Germany 🇩🇪
+- **Co-worker:** 3-year-old Black Lab
+- **Interests:** Rust, Stargate SG-1, Warhammer 40k
+
+Stefan is a 38-year-old DevOps engineer bringing deep technical expertise to his craft. A passionate open source contributor, he contributes to building rawkode.studio for the Rawkode Academy. His unique blend of island life tranquility and cutting-edge technology shapes his approach to software development.
